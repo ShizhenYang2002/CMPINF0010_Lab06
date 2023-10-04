@@ -5,4 +5,4 @@ Shizhen Yang(shy77@pitt.edu)
 and
 Alli Batell (alb594@pitt.edu).
 
-This code takes your name and age input and gives it back to you in sentence form.
+This code takes your name and age input and gives it back to you in sentence form. It will also tell you what you can do in your age.
